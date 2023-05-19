@@ -1,0 +1,29 @@
+h1{
+    color:darkcyan; 
+}
+h2{
+    color:blue; 
+}
+a{
+    color:crimson;
+}
+em{
+    color:mediumblue;
+}
+strong{
+    color:orangered;
+}
+table{
+    border-style:solid;
+    border-color: darkgray;
+}
+thead{
+    border-style:solid;
+    border-color: darkgray;
+}
+.destacado{
+    color:darkgoldenrod;
+}
+.especial{
+    color:blueviolet;
+}
