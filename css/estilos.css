@@ -1,0 +1,16 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    font-family: Helvetica;
+    text-align: center;
+}
+h2{
+    font-family: Helvetica;
+    text-align: center;
+}
+p{
+    font-family: Helvetica;
+    color:darkslateblue;
+    text-align: left;
+}
